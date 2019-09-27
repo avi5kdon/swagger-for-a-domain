@@ -4,7 +4,7 @@ you can build this by using:
 
 mvn clean install 
 
-Then you can deploy the war in any webserver and access the swagger UI
+Then you can deploy the war (generated in target/) in any webserver and access the swagger UI
 
 For example: 
 
