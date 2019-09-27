@@ -8,4 +8,6 @@ Then you can deploy the war (generated in target/) in any webserver and access t
 
 For example: 
 
-http://localhost:8181/swagger-web/
+http://localhost:8181/swagger-web?url=/cxf/crm/swagger.json
+
+Here, the url parameter is the url for the Swagger API json file
